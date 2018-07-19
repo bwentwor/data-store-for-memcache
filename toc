@@ -1,0 +1,8 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="data-store-for-memcache" audience="service" href="/docs/services/data-store-for-memcache/index.html"}
+Data Store for Memcache
+
+    {: .navgroup id="learn"}
+    index.md
